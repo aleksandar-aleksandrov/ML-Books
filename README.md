@@ -6,3 +6,4 @@
 ](https://fairmlbook.org/)
 [Deep Learning Book](https://www.deeplearningbook.org/)
 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
+[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
